@@ -40,28 +40,54 @@ perimeter. The output data will return math formulas through a dialog box.
 
 **************
 Compilation instructions:
+
 ->This is built in a Lubuntu virtual machine
+
 ->In terminal:
+
 	make
+	
 	./shape
+	
 	triangle
+	
 	**click Fetch**
+	
 	**data outputted**
+	
 	**click OK**
+	
 	square
+	
 	**click Fetch**
+	
 	**data outputted**
+	
 	**click OK**
+	
 	pentagon
+	
 	**click Fetch**
+	
 	**data outputted**
+	
 	**click OK**
+	
 	hexagon
+	
 	**click Fetch**
+	
 	**data outputted**
+	
 	**click OK**
+	
 	heptagon
+	
 	**click Fetch**
+	
 	**data outputted**
+	
 	**click OK**
+	
 	**click close**
+	
